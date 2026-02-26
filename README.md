@@ -261,3 +261,5 @@ Every small action counts. By using FoodWaste Manager, you're contributing to:
 ---
 
 **Made with 💚 for a more sustainable future**
+ 
+ 
